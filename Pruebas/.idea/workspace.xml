@@ -30,11 +30,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Factorial.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.LeerTeclado.executor": "Run",
     "Application.LitrosAGalones.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TablaDeMultiplicar.executor": "Run",
+    "Application.TrianguloDeFloyd.executor": "Run",
     "Application.Vocales.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
