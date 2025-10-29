@@ -30,6 +30,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CocerHuevos.executor": "Run",
+    "Application.CocerHuevos2.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.LeerTeclado.executor": "Run",
