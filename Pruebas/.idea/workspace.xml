@@ -32,6 +32,7 @@
   "keyToString": {
     "Application.CocerHuevos.executor": "Run",
     "Application.CocerHuevos2.executor": "Run",
+    "Application.EntrevistaTrabajoAmazon.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FormacionTortuga.executor": "Run",
     "Application.FrasesAlReves.executor": "Run",
@@ -50,7 +51,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/codemonsters/Documents/m.esp/java_01/Pruebas",
     "onboarding.tips.debug.path": "/home/codemonsters/Documents/m.esp/java_01/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="TaskManager">
