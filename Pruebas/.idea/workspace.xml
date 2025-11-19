@@ -32,6 +32,7 @@
   "keyToString": {
     "Application.CocerHuevos.executor": "Run",
     "Application.CocerHuevos2.executor": "Run",
+    "Application.CrackTheCode.executor": "Debug",
     "Application.EntrevistaTrabajoAmazon.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FormacionTortuga.executor": "Run",
@@ -63,5 +64,20 @@
       <updated>1759336859759</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CrackTheCode.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
