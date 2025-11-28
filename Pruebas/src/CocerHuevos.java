@@ -1,5 +1,4 @@
-/* está mal
- */
+// está mal
 
 import java.util.Scanner;
 
